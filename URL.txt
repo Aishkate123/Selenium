@@ -1,0 +1,3 @@
+//shop-global.malaicha.com/login
+Attribute:
+combination of properties and value.
